@@ -1,0 +1,6 @@
+{
+  "name": "Lector de CFDI XML v2",
+  "description": "Una aplicación para importar, visualizar y exportar datos de facturas XML (CFDI). Analiza los archivos, los muestra en una tabla con totales y permite la exportación a Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
