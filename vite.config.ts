@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
-    base: '/lector-de-cfdi-xml-v2/', // ← ¡Movido aquí adentro!
     return {
+        base: '/lector-de-cfdi-xml-v2/', // ← ¡Movido aquí adentro!
       server: {
         port: 3000,
         host: '0.0.0.0',
